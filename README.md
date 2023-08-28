@@ -1,6 +1,7 @@
 # w3-p3-decorate_html_with_css
 
-##Menghias-HTML-dengan-CSS
+## Menghias-HTML-dengan-CSS
+
 Pada tugas kali ini kalian akan diperintahkan untuk membuat index.html khusus dengan code yang sudah disiapkan, kalian juga akan disediakan file css yang tidak boleh dilakukan perubahan sama sekali
 tugas kalian adalah, gunakan css yang ada tanpa mengubah file diddalam css tersebut, dan sesuaikan css yang ada pada index.html yang telah disediakan, buat hingga sesuai dengan contoh pada dibawha.
 penilaian akan bergantung pada seberapa sesuai apa yang kalian kerjakan
