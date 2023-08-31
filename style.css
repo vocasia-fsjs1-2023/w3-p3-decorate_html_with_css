@@ -51,7 +51,7 @@ h1 {
   background: #1e824c;
 }
 
-.red-background {
+#red-background {
   color: #ffffff;
   background: #c0392b;
 }
@@ -61,12 +61,12 @@ h1 {
   background: #446cb3;
 }
 
-.green-background {
+#green-background {
   color: #ffffff;
   background: #26a65b;
 }
 
-.box-list div {
+#box-list-div {
   width: 200px;
   height: 200px;
   float: left;
